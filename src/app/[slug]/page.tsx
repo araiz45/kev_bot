@@ -47,7 +47,12 @@ const Post = () => {
       try {
         const response = await axios.get(
           accessUrl +
-            `/api/blogs?filters[slug][$eq]=${splitedUrl[1]}&populate=*`
+            `/api/blogs?filters[slug][$eq]=${splitedUrl[1]}&populate=*`,
+          {
+            headers: {
+              "Access-Control-Allow-Origin": "*",
+            },
+          }
         );
         // console.log(response.data.data[0]);
         setExtData(response.data.data[0]);

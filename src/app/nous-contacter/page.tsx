@@ -14,6 +14,9 @@ const ContactUs = () => {
     ev.preventDefault();
     try {
       const repsonse = await axios.post(accessUrl + "/api/responses", {
+        headers: {
+          "Access-Control-Allow-Origin": "*",
+        },
         data: {
           name,
           email,

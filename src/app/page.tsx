@@ -39,7 +39,12 @@ export default function Home() {
     try {
       const resp = await axios.get(
         accessUrl +
-          "/api/blogs?pagination[page]=1&pagination[pageSize]=3&sort[1]=createdAt:desc&populate=*"
+          "/api/blogs?pagination[page]=1&pagination[pageSize]=3&sort[1]=createdAt:desc&populate=*",
+        {
+          headers: {
+            "Access-Control-Allow-Origin": "*",
+          },
+        }
       );
       setData(resp.data.data);
       console.log(resp);

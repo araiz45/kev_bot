@@ -48,7 +48,12 @@ const News: React.FC = () => {
     try {
       const response = await axios.get(
         accessUrl +
-          `/api/blogs?pagination[page]=${page}&pagination[pageSize]=7&sort[1]=createdAt:desc&populate=*`
+          `/api/blogs?pagination[page]=${page}&pagination[pageSize]=7&sort[1]=createdAt:desc&populate=*`,
+        {
+          headers: {
+            "Access-Control-Allow-Origin": "*",
+          },
+        }
       );
       console.log(response);
       setData(response.data.data);

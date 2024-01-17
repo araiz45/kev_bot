@@ -7,6 +7,7 @@ import Header from "@/components/Header";
 import { Toaster } from "react-hot-toast";
 import Head from "next/head";
 import Script from "next/script";
+import axios from "axios";
 
 const inter = Inter({ subsets: ["latin"] });
 
