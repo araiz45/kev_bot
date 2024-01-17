@@ -51,6 +51,8 @@ const Post = () => {
           {
             headers: {
               "Access-Control-Allow-Origin": "*",
+              "Content-Type":
+                "bearer 6d1ccd7acd4df67e24e66b38d7f82362490c2ecc7d5ad9eb4da94601db023d0eb47e4254355eff3d48749e1e77f5a03fa9b9838442640aca4e9585f14742607193d7c5cf2e4bdf22a1096fe1023150a90c22e4427cbf44d8578f86ee919d59514f67ce89139fea1b0f479bda4a1ccbb5eaf1a7b6e09a03a06d2a22401c2f900d",
             },
           }
         );
