@@ -83,7 +83,7 @@ export default function Home() {
             <p className="text-gray-400 mx-auto mb-8  text-lg leading-normal text-jacarta-50">
               KBCOM vous offre son expertise pour la conception de votre site
               web, le développement de votre identité visuelle en ligne, ainsi
-              que l'optimisation de votre visibilité sur les moteurs de
+              que l&apos;optimisation de votre visibilité sur les moteurs de
               recherche.
             </p>
             <Link
@@ -255,7 +255,7 @@ export default function Home() {
                 captivent votre public cible. Grâce à notre savoir-faire, votre
                 site web deviendra la vitrine numérique de votre entreprise,
                 alliant esthétique et efficacité pour vous démarquer dans
-                l'univers en ligne.
+                l&apos;univers en ligne.
               </p>
             </div>
             <div className="text-left">
@@ -278,10 +278,10 @@ export default function Home() {
               </h3>
               <p className="text-gray-400 dark:text-jacarta-300">
                 Plongez dans le monde dynamique de la communication sur les
-                réseaux. Notre équipe d'experts vous guide à travers des
+                réseaux. Notre équipe d&apos;experts vous guide à travers des
                 stratégies digitales percutantes pour maximiser votre présence
-                en ligne. De la gestion des médias sociaux à l'optimisation de
-                votre visibilité, nous vous aidons à établir des connexions
+                en ligne. De la gestion des médias sociaux à l&apos;optimisation
+                de votre visibilité, nous vous aidons à établir des connexions
                 authentiques avec votre audience.
               </p>
             </div>
@@ -336,8 +336,8 @@ export default function Home() {
               <p className="text-gray-400 mb-8 dark:text-jacarta-300">
                 Vous souhaitez donner vie à votre présence en ligne? Faites
                 confiance à notre agence web basée à Tours pour la création sur
-                mesure de votre site internet. Forts d'une expertise solide dans
-                le domaine, nous nous engageons à concevoir un site web
+                mesure de votre site internet. Forts d&apos;une expertise solide
+                dans le domaine, nous nous engageons à concevoir un site web
                 professionnel qui répond à vos besoins et attentes, tout en
                 respectant les dernières normes de conception et de
                 référencement.
@@ -346,24 +346,25 @@ export default function Home() {
                 Notre équipe expérimentée maîtrise les dernières technologies et
                 les meilleures pratiques pour garantir que votre site internet
                 soit non seulement esthétiquement attrayant, mais également
-                performant. Nous mettons un point d'honneur à optimiser chaque
-                aspect de votre site, de l'architecture aux contenus, en passant
-                par l'expérience utilisateur, afin de maximiser votre visibilité
-                en ligne et d'attirer un trafic qualifié.
+                performant. Nous mettons un point d&apos;honneur à optimiser
+                chaque aspect de votre site, de l&apos;architecture aux
+                contenus, en passant par l&apos;expérience utilisateur, afin de
+                maximiser votre visibilité en ligne et d&apos;attirer un trafic
+                qualifié.
                 <br />
                 <br />
                 Grâce à notre approche personnalisée, nous concevons des
-                solutions adaptées à votre secteur d'activité et à votre public
-                cible. Nous sommes également spécialisés dans l'optimisation du
-                référencement (SEO), assurant ainsi une meilleure visibilité sur
-                les moteurs de recherche tels que Google. Votre site internet
-                sera conçu pour être convivial, intuitif et parfaitement
-                fonctionnel sur tous les appareils, offrant ainsi une expérience
-                optimale à vos visiteurs.
+                solutions adaptées à votre secteur d&apos;activité et à votre
+                public cible. Nous sommes également spécialisés dans
+                l&apos;optimisation du référencement (SEO), assurant ainsi une
+                meilleure visibilité sur les moteurs de recherche tels que
+                Google. Votre site internet sera conçu pour être convivial,
+                intuitif et parfaitement fonctionnel sur tous les appareils,
+                offrant ainsi une expérience optimale à vos visiteurs.
                 <br />
                 <br />{" "}
                 <span style={{ fontSize: "10px" }}>
-                  *dans le cadre d'une offre sur mesure
+                  *dans le cadre d&apos;une offre sur mesure
                 </span>
               </p>
             </div>
@@ -463,8 +464,8 @@ export default function Home() {
               </div>
               <p className="text-gray-400 dark:text-jacarta-300">
                 Création de votre premier site web? Cette offre est faite pour
-                vous. KBCOM vous propose la création d'un site internet 1 page
-                avec l'essentiel pour lancer votre activité
+                vous. KBCOM vous propose la création d&apos;un site internet 1
+                page avec l&apos;essentiel pour lancer votre activité
               </p>
               <div className="list">Site vitrine basique 1 page</div>
               <div className="list">Optimisation SEO</div>
@@ -505,9 +506,9 @@ export default function Home() {
                 à partir de 980 €
               </div>
               <p className="text-gray-400 dark:text-jacarta-300">
-                Envie d'une refonte ? ou bien d'un site web avec plusieurs pages
-                pour un meilleur référencement sur les navigateurs web? Alors
-                cette offre vous convient le mieux.
+                Envie d&apos;une refonte ? ou bien d&apos;un site web avec
+                plusieurs pages pour un meilleur référencement sur les
+                navigateurs web? Alors cette offre vous convient le mieux.
               </p>
               <div className="list">Site vitrine basique 4 pages</div>
               <div className="list">Optimisation SEO</div>
@@ -585,7 +586,7 @@ export default function Home() {
             </h2>
             <p className="text-gray-400 text-lg dark:text-jacarta-300">
               Des questions ? Des réponses. Retrouvez la FAQ <br />
-              de l'agence KBCOM
+              de l&apos;agence KBCOM
             </p>
           </div>
           <div className="lg:flex lg:flex-nowrap">
@@ -595,8 +596,8 @@ export default function Home() {
             <div className="lg:w-[41%] lg:pl-24">
               <p className="text-gray-400 mb-6 dark:text-jacarta-300">
                 Si vous ne trouvez pas de réponse à vos questions, laissez-nous
-                un message sur le formulaire, l'équipe KBCOM sera ravie d'y
-                répondre.
+                un message sur le formulaire, l&apos;équipe KBCOM sera ravie
+                d&apos;y répondre.
               </p>
               <Link
                 href="nous-contacter"
@@ -619,8 +620,8 @@ export default function Home() {
                       aria-controls="faq-1"
                     >
                       <span>
-                        Comment pouvez-vous m'aider à améliorer ma présence sur
-                        les réseaux sociaux ?
+                        Comment pouvez-vous m&apos;aider à améliorer ma présence
+                        sur les réseaux sociaux ?
                       </span>
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
@@ -647,7 +648,7 @@ export default function Home() {
                         les plateformes sociales en utilisant des stratégies de
                         marketing de contenu, des analyses et des campagnes
                         ciblées, ce qui contribue à améliorer votre visibilité
-                        et à augmenter l'engagement de votre audience.
+                        et à augmenter l&apos;engagement de votre audience.
                       </p>
                     </div>
                   </div>
@@ -687,13 +688,14 @@ export default function Home() {
                   >
                     <div className="accordion-body border-t border-jacarta-100 bg-white p-4 dark:border-jacarta-600 dark:bg-jacarta-700">
                       <p className="text-gray-400 dark:text-jacarta-200">
-                        Chez KBCOM, nous nous spécialisons dans l'optimisation
-                        du référencement (SEO) pour maximiser la visibilité de
-                        votre site web. Nous utilisons des stratégies efficaces
-                        telles que l'optimisation du contenu, la gestion des
-                        mots clés et l'amélioration de la structure du site pour
-                        vous aider à atteindre un classement élevé dans les
-                        moteurs de recherche.
+                        Chez KBCOM, nous nous spécialisons dans
+                        l&apos;optimisation du référencement (SEO) pour
+                        maximiser la visibilité de votre site web. Nous
+                        utilisons des stratégies efficaces telles que
+                        l&apos;optimisation du contenu, la gestion des mots clés
+                        et l&apos;amélioration de la structure du site pour vous
+                        aider à atteindre un classement élevé dans les moteurs
+                        de recherche.
                       </p>
                     </div>
                   </div>
@@ -733,12 +735,12 @@ export default function Home() {
                   >
                     <div className="accordion-body border-t border-jacarta-100 bg-white p-4 dark:border-jacarta-600 dark:bg-jacarta-700">
                       <p className="text-gray-400 dark:text-jacarta-200">
-                        Nous concevons des sites web en mettant l'accent sur une
-                        excellente expérience utilisateur (UX). Cela comprend
-                        une navigation intuitive, des temps de chargement
-                        rapides, une conception responsive, et une mise en page
-                        bien pensée pour offrir à vos visiteurs une expérience
-                        fluide et engageante.
+                        Nous concevons des sites web en mettant l&apos;accent
+                        sur une excellente expérience utilisateur (UX). Cela
+                        comprend une navigation intuitive, des temps de
+                        chargement rapides, une conception responsive, et une
+                        mise en page bien pensée pour offrir à vos visiteurs une
+                        expérience fluide et engageante.
                       </p>
                     </div>
                   </div>
@@ -778,9 +780,9 @@ export default function Home() {
                   >
                     <div className="accordion-body border-t border-jacarta-100 bg-white p-4 dark:border-jacarta-600 dark:bg-jacarta-700">
                       <p className="text-gray-400 dark:text-jacarta-200">
-                        Nous recommandons d'actualiser régulièrement votre
-                        contenu, d'ajouter de nouvelles fonctionnalités, de
-                        surveiller les performances, et d'adapter votre
+                        Nous recommandons d&apos;actualiser régulièrement votre
+                        contenu, d&apos;ajouter de nouvelles fonctionnalités, de
+                        surveiller les performances, et d&apos;adapter votre
                         stratégie en fonction des évolutions du marché. Notre
                         équipe propose des solutions évolutives pour garantir
                         que votre site reste pertinent et performant au fil du
@@ -824,7 +826,7 @@ export default function Home() {
                   >
                     <div className="accordion-body border-t border-jacarta-100 bg-white p-4 dark:border-jacarta-600 dark:bg-jacarta-700">
                       <p className="text-gray-400 dark:text-jacarta-200">
-                        C'est simple ! Vous pouvez nous contacter via le
+                        C&apos;est simple ! Vous pouvez nous contacter via le
                         formulaire notre site web ou par téléphone au
                         06.40.63.19.53 pour discuter de votre projet. Nous
                         prendrons en considération vos besoins uniques et vous
@@ -894,10 +896,11 @@ export default function Home() {
             <div className="lg:flex lg:justify-between">
               <div className="mb-6 max-w-lg lg:mb-0">
                 <h2 className="mb-5 font-display text-3xl text-jacarta-700 dark:text-white">
-                  Besoin de plus d'information ?
+                  Besoin de plus d&apos;information ?
                 </h2>
                 <p className="text-gray-400 text-lg leading-normal dark:text-jacarta-300">
-                  Notre équipe s'occupe de de vous et de toutes vos questions.
+                  Notre équipe s&apos;occupe de de vous et de toutes vos
+                  questions.
                 </p>
               </div>
               <Link

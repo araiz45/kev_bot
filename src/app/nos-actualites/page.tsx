@@ -175,10 +175,11 @@ const News: React.FC = () => {
             <div className="lg:flex lg:justify-between">
               <div className="mb-6 max-w-lg lg:mb-0">
                 <h2 className="mb-5 font-display text-3xl text-jacarta-700 dark:text-white">
-                  Besoin de plus d'information ?
+                  Besoin de plus d&apos;information ?
                 </h2>
                 <p className="text-lg leading-normal dark:text-jacarta-300">
-                  Notre équipe s'occupe de de vous et de toutes vos questions.
+                  Notre équipe s&apos;occupe de de vous et de toutes vos
+                  questions.
                 </p>
               </div>
               <Link
@@ -207,10 +208,10 @@ export default News;
 //   <div className="contact-div flex justify-around items-center">
 //     <div className="flex flex-col gap-5 ">
 //       <h1 className="text-3xl font-bold text-white">
-//         Besoin de plus d'information ?
+//         Besoin de plus d&apos;information ?
 //       </h1>
 //       <p className="text-lg font-semibold text-gray-400">
-//         Notre équipe s'occupe de de vous et de toutes vos <br />
+//         Notre équipe s&apos;occupe de de vous et de toutes vos <br />
 //         questions.
 //       </p>
 //     </div>

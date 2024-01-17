@@ -22,7 +22,7 @@ const MentionsLegales = () => {
               Mentions Légales
             </h1>
             <p className="text-lg leading-normal dark:text-jacarta-200">
-              Mentions Légales de l'agence KBCOM
+              Mentions Légales de l&apos;agence KBCOM
             </p>
           </div>
         </div>
@@ -38,7 +38,7 @@ const MentionsLegales = () => {
         </picture>
         <div className="container">
           <div className="article-content mx-auto max-w-[48.125rem]">
-            <h2 className="text-base">Informations sur l'entreprise</h2>
+            <h2 className="text-base">Informations sur l&apos;entreprise</h2>
             <p>
               Entreprise : KBCOM <br />
               Statut juridique : Auto-entreprise <br />
@@ -56,7 +56,7 @@ const MentionsLegales = () => {
             </p>
             <h2 className="text-base">Hébergeur du site web</h2>
             <p>
-              Nom de l'hébergeur : IONOS
+              Nom de l&apos;hébergeur : IONOS
               <br />
               Adresse : 7, place de la Gare, BP 70109, 57200 Sarreguemines
               Cedex.
@@ -68,8 +68,8 @@ const MentionsLegales = () => {
               Le contenu de ce site web (textes, images, vidéos, logos, etc.)
               est la propriété exclusive de KBcom ou de ses partenaires. Toute
               reproduction, distribution ou utilisation sans autorisation
-              préalable est strictement interdite et pourra faire l'objet de
-              poursuites judiciaires.
+              préalable est strictement interdite et pourra faire l&apos;objet
+              de poursuites judiciaires.
             </p>
             <h2 className="text-base">Données personnelles</h2>
             <p>
@@ -80,15 +80,15 @@ const MentionsLegales = () => {
             <h2 className="text-base">Liens externes</h2>
             <p>
               Ce site peut contenir des liens vers des sites externes sur
-              lesquels KBCOM n'exerce aucun contrôle. Nous déclinons toute
+              lesquels KBCOM n&apos;exerce aucun contrôle. Nous déclinons toute
               responsabilité quant au contenu de ces sites externes.
             </p>
             <h2 className="text-base">
               Droit applicable et juridiction compétente
             </h2>
             <p>
-              Tout litige relatif à l'utilisation de ce site web est soumis au
-              droit français. En cas de litige, les tribunaux français seront
+              Tout litige relatif à l&apos;utilisation de ce site web est soumis
+              au droit français. En cas de litige, les tribunaux français seront
               compétents.
             </p>
           </div>

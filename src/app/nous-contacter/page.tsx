@@ -49,7 +49,7 @@ const ContactUs = () => {
                 Nous contacter
               </h1>
               <p className="text-lg leading-normal dark:text-jacarta-200">
-                Des Questions ? Besoin d'un devis ? <br />
+                Des Questions ? Besoin d&apos;un devis ? <br />
                 Vous êtes au bon endroit !
               </p>
             </div>
@@ -70,7 +70,7 @@ const ContactUs = () => {
             <div className="lg:flex">
               <div className="mb-12 lg:mb-0 lg:w-2/3 lg:pr-12">
                 <h2 className="mb-4 font-display text-xl text-jacarta-700 dark:text-white">
-                  Contacter l'équipe KBCOM
+                  Contacter l&apos;équipe KBCOM
                 </h2>
                 <p className="mb-16 text-lg leading-normal dark:text-jacarta-300">
                   Notre équipe se fera un plaisir de vous répondre au plus vite.
@@ -147,9 +147,9 @@ const ContactUs = () => {
                   Information
                 </h2>
                 <p className="mb-6 text-lg leading-normal dark:text-jacarta-300">
-                  Vous souhaitez plus d'information pour votre futur site
-                  internet ou vous avez d'autre question ? Contactez nous en
-                  direct !
+                  Vous souhaitez plus d&apos;information pour votre futur site
+                  internet ou vous avez d&apos;autre question ? Contactez nous
+                  en direct !
                 </p>
 
                 <div className="rounded-2.5xl border border-jacarta-100 bg-white p-10 dark:border-jacarta-600 dark:bg-jacarta-700">
@@ -246,7 +246,7 @@ export default ContactUs;
   /* <div>
       <Hero
         heading="Nous contacter"
-        para="Des Questions ? Besoin d'un devis ? <br />
+        para="Des Questions ? Besoin d&apos;un devis ? <br />
 Vous êtes au bon endroit !"
       />
     </div> */

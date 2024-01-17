@@ -72,10 +72,11 @@ const MarchauCreation = () => {
                   Identité Visuelle - Marchau création
                 </h2>
                 <p className="text-lg leading-normal">
-                  Création d'une identité visuelle pour l'entreprise marchaud
-                  création dont le domaine d'activité est l'aménagement
-                  extérieur. Notre agence KBCOM à réaliser un panneau de
-                  chantier ainsi que les carte de visite de l'entreprise
+                  Création d&apos;une identité visuelle pour l&apos;entreprise
+                  marchaud création dont le domaine d&apos;activité est
+                  l&apos;aménagement extérieur. Notre agence KBCOM à réaliser un
+                  panneau de chantier ainsi que les carte de visite de
+                  l&apos;entreprise
                 </p>
                 <h3 className="text-xl">
                   Aucune perte de qualité lors de l"impression
@@ -85,7 +86,10 @@ const MarchauCreation = () => {
                     Format PDF avec 100 % des éléments en SVG pour ne pas perdre
                     en qualité
                   </li>
-                  <li> Création de l'identité visuelle de l'entreprise.</li>
+                  <li>
+                    {" "}
+                    Création de l&apos;identité visuelle de l&apos;entreprise.
+                  </li>
                 </ul>
               </div>
             </div>
@@ -143,8 +147,8 @@ const MarchauCreation = () => {
                 </Link>
               </h2>
               <p className="mb-5 dark:text-jacarta-300">
-                Création d'un site ecommerce sous le framwork symfony afin de
-                présenter et vendre les produits directement en ligne.
+                Création d&apos;un site ecommerce sous le framwork symfony afin
+                de présenter et vendre les produits directement en ligne.
               </p>
               <Link
                 href="aliexprhess"
@@ -170,8 +174,8 @@ const MarchauCreation = () => {
                 </Link>
               </h2>
               <p className="mb-5 dark:text-jacarta-300">
-                Création d'un site ecommerce sous le framwork symfony afin de
-                présenter et vendre les produits directement en ligne.
+                Création d&apos;un site ecommerce sous le framwork symfony afin
+                de présenter et vendre les produits directement en ligne.
               </p>
               <Link href="enable" className="text-sm font-bold text-accent">
                 Voir le projet
@@ -205,10 +209,11 @@ const MarchauCreation = () => {
             <div className="lg:flex lg:justify-between">
               <div className="mb-6 max-w-lg lg:mb-0">
                 <h2 className="mb-5 font-display text-3xl text-jacarta-700 dark:text-white">
-                  Besoin de plus d'information ?
+                  Besoin de plus d&apos;information ?
                 </h2>
                 <p className="text-lg leading-normal dark:text-jacarta-300">
-                  Notre équipe s'occupe de de vous et de toutes vos questions.
+                  Notre équipe s&apos;occupe de de vous et de toutes vos
+                  questions.
                 </p>
               </div>
               <Link

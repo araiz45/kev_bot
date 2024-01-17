@@ -137,7 +137,7 @@ const AliExpress: React.FC = () => {
                   </a>
                 </h2>
                 <p className="mb-5 dark:text-jacarta-300">
-                  Création d'un site vitrine sous le cms wordpress afin de
+                  Création d&apos;un site vitrine sous le cms wordpress afin de
                   présenter les produits de la boutique.
                 </p>
                 <a
@@ -164,8 +164,8 @@ const AliExpress: React.FC = () => {
                   </a>
                 </h2>
                 <p className="mb-5 dark:text-jacarta-300">
-                  Création d'un site ecommerce sous le framwork symfony afin de
-                  présenter et vendre les produits directement en ligne.
+                  Création d&apos;un site ecommerce sous le framwork symfony
+                  afin de présenter et vendre les produits directement en ligne.
                 </p>
                 <a href="enable" className="text-sm font-bold text-accent">
                   Voir le projet
@@ -203,10 +203,11 @@ const AliExpress: React.FC = () => {
               <div className="lg:flex lg:justify-between">
                 <div className="mb-6 max-w-lg lg:mb-0">
                   <h2 className="mb-5 font-display text-3xl text-jacarta-700 dark:text-white">
-                    Besoin de plus d'information ?
+                    Besoin de plus d&apos;information ?
                   </h2>
                   <p className="text-lg leading-normal dark:text-jacarta-300">
-                    Notre équipe s'occupe de de vous et de toutes vos questions.
+                    Notre équipe s&apos;occupe de de vous et de toutes vos
+                    questions.
                   </p>
                 </div>
                 <a

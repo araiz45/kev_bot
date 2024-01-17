@@ -23,9 +23,6 @@ export default function RootLayout({
     <html lang="fr" dir="ltr" className="dark">
       <Head>
         <link rel="icon" href="/favicon.ico" sizes="any" />
-        <script src="js/app.bundle.js"></script>
-        <script src="js/charts.bundle.js"></script>
-        <script src="js/countdown.bundle.js"></script>
       </Head>
       <body
         className={
@@ -39,6 +36,9 @@ export default function RootLayout({
         <Toaster position="top-center" reverseOrder={false} />
         {children}
         <Footer />
+        <script src="js/app.bundle.js"></script>
+        <script src="js/charts.bundle.js"></script>
+        <script src="js/countdown.bundle.js"></script>
       </body>
     </html>
   );

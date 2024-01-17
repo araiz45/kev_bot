@@ -87,7 +87,7 @@ const EspritChoco = () => {
                   </p>
                   <p>
                     Notre agence KBCOM a utilisé les fonctionnalités avancées
-                    d'Elementor pour créer une présentation visuellement
+                    d&apos;Elementor pour créer une présentation visuellement
                     attrayante et intuitive pour les produits de chocolat de la
                     boutique.
                   </p>
@@ -103,25 +103,25 @@ const EspritChoco = () => {
                     <li>
                       Notre agence KBCOM a mis en œuvre des stratégies de
                       conception web créatives et efficaces pour refléter
-                      l'essence gourmande et séduisante des produits chocolatés
-                      proposés par "Esprit Choco".
+                      l&apos;essence gourmande et séduisante des produits
+                      chocolatés proposés par "Esprit Choco".
                     </li>
                     <li>
                       {" "}
-                      En mettant l'accent sur l'esthétique et l'ergonomie, nous
-                      avons veillé à ce que chaque visiteur du site ait une
-                      expérience agréable tout en explorant les délices
-                      chocolatés présentés. Nous avons intégré des éléments
-                      visuels attrayants et des descriptions engageantes pour
-                      mettre en valeur la qualité et la diversité des chocolats
-                      disponibles.
+                      En mettant l&apos;accent sur l&apos;esthétique et
+                      l&apos;ergonomie, nous avons veillé à ce que chaque
+                      visiteur du site ait une expérience agréable tout en
+                      explorant les délices chocolatés présentés. Nous avons
+                      intégré des éléments visuels attrayants et des
+                      descriptions engageantes pour mettre en valeur la qualité
+                      et la diversité des chocolats disponibles.
                     </li>
                     <li>
                       La navigation fluide et intuitive permet aux utilisateurs
                       de parcourir facilement les différentes catégories de
-                      produits, de découvrir les promotions en cours et d'en
-                      apprendre davantage sur l'histoire et les valeurs de
-                      "Esprit Choco"
+                      produits, de découvrir les promotions en cours et
+                      d&apos;en apprendre davantage sur l&apos;histoire et les
+                      valeurs de "Esprit Choco"
                     </li>
                   </ul>
                 </div>
@@ -158,8 +158,8 @@ const EspritChoco = () => {
                   </Link>
                 </h2>
                 <p className="mb-5 dark:text-jacarta-300">
-                  Création d'un site ecommerce sous le framwork symfony afin de
-                  présenter et vendre les produits directement en ligne.
+                  Création d&apos;un site ecommerce sous le framwork symfony
+                  afin de présenter et vendre les produits directement en ligne.
                 </p>
                 <Link
                   href="aliexprhess"
@@ -185,8 +185,8 @@ const EspritChoco = () => {
                   </Link>
                 </h2>
                 <p className="mb-5 dark:text-jacarta-300">
-                  Création d'un site ecommerce sous le framwork symfony afin de
-                  présenter et vendre les produits directement en ligne.
+                  Création d&apos;un site ecommerce sous le framwork symfony
+                  afin de présenter et vendre les produits directement en ligne.
                 </p>
                 <Link href="enable" className="text-sm font-bold text-accent">
                   Voir le projet
@@ -230,10 +230,11 @@ const EspritChoco = () => {
               <div className="lg:flex lg:justify-between">
                 <div className="mb-6 max-w-lg lg:mb-0">
                   <h2 className="mb-5 font-display text-3xl text-jacarta-700 dark:text-white">
-                    Besoin de plus d'information ?
+                    Besoin de plus d&apos;information ?
                   </h2>
                   <p className="text-lg leading-normal dark:text-jacarta-300">
-                    Notre équipe s'occupe de de vous et de toutes vos questions.
+                    Notre équipe s&apos;occupe de de vous et de toutes vos
+                    questions.
                   </p>
                 </div>
                 <Link

@@ -95,10 +95,10 @@ const Agency = () => {
               <p className="mb-10 dark:text-jacarta-300">
                 Notre engagement est de créer des expériences en ligne
                 captivantes et mémorables, laissant une empreinte indélébile.
-                Que vous ayez besoin de lancer un nouveau site web, d'améliorer
-                votre visibilité sur les réseaux sociaux ou de forger une
-                identité visuelle marquante, notre expertise combinée à notre
-                passion nous permet de concrétiser vos objectifs.
+                Que vous ayez besoin de lancer un nouveau site web,
+                d&apos;améliorer votre visibilité sur les réseaux sociaux ou de
+                forger une identité visuelle marquante, notre expertise combinée
+                à notre passion nous permet de concrétiser vos objectifs.
                 <br />
                 <br />
                 Dans notre agence web la collaboration et la compréhension
@@ -132,9 +132,9 @@ const Agency = () => {
             </h2>
             <p className="text-lg dark:text-jacarta-300">
               KBCOM incarne une véritable palette de compétences et de
-              savoir-faire diversifiés, véritable pilier dans l'univers digital.
-              Notre agence excelle dans plusieurs domaines clés de la création
-              et de l'optimisation en ligne.
+              savoir-faire diversifiés, véritable pilier dans l&apos;univers
+              digital. Notre agence excelle dans plusieurs domaines clés de la
+              création et de l&apos;optimisation en ligne.
             </p>
           </div>
           <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
@@ -159,8 +159,8 @@ const Agency = () => {
                 Création de site internet
               </h3>
               <p className="dark:text-jacarta-300">
-                Notre agence web développe des sites internet, qu'ils soient
-                vitrines ou marchands, en fonction de vos besoins. Nous
+                Notre agence web développe des sites internet, qu&apos;ils
+                soient vitrines ou marchands, en fonction de vos besoins. Nous
                 concevons des sites sur mesure afin qu’ils correspondent
                 parfaitement à vos attentes et répondent adéquatement à vos
                 besoins. Les sites que nous proposons sont responsives, assurant
@@ -199,10 +199,10 @@ const Agency = () => {
                 Identité visuelle / Logo
               </h3>
               <p className="dark:text-jacarta-300">
-                Nous proposons d'identité visuelle et de création de logo sur
-                mesure. Découvrez nos solutions pour renforcer votre présence en
-                ligne avec des designs uniques et impactant, conçus pour
-                optimiser votre visibilité sur le web et renforcer la
+                Nous proposons d&apos;identité visuelle et de création de logo
+                sur mesure. Découvrez nos solutions pour renforcer votre
+                présence en ligne avec des designs uniques et impactant, conçus
+                pour optimiser votre visibilité sur le web et renforcer la
                 reconnaissance de votre marque.
               </p>
             </div>
@@ -246,11 +246,11 @@ const Agency = () => {
                 Référencement Web (SEO/SEA)
               </h3>
               <p className="dark:text-jacarta-300">
-                Dans l'océan du digital, émergez au sommet avec notre expertise
-                en référencement web. Notre agence web est votre boussole, vous
-                guidant à travers les vagues du SEO (Search Engine Optimization)
-                et du SEA (Search Engine Advertising) pour que votre entreprise
-                soit remarquée, reconnue et recherchée.
+                Dans l&apos;océan du digital, émergez au sommet avec notre
+                expertise en référencement web. Notre agence web est votre
+                boussole, vous guidant à travers les vagues du SEO (Search
+                Engine Optimization) et du SEA (Search Engine Advertising) pour
+                que votre entreprise soit remarquée, reconnue et recherchée.
               </p>
             </div>
 
@@ -305,7 +305,7 @@ const Agency = () => {
                 catalyseurs qui propulsent votre marque vers de nouveaux
                 horizons. Dans notre agence web, nous mettons en lumière votre
                 histoire à travers des créations visuelles percutantes, en
-                alliant l'art à la technologie pour créer des expériences
+                alliant l&apos;art à la technologie pour créer des expériences
                 inoubliables.
               </p>
             </div>
@@ -334,10 +334,10 @@ const Agency = () => {
                     équipe créative et technique travaille de concert pour
                     personnaliser chaque aspect de votre site, offrant ainsi une
                     expérience utilisateur fluide et esthétiquement plaisante.
-                    Que vous soyez une entreprise à la recherche d'une présence
-                    en ligne élégante ou un professionnel cherchant à exposer
-                    votre portefeuille, nous avons l'expertise nécessaire pour
-                    concrétiser votre vision.
+                    Que vous soyez une entreprise à la recherche d&apos;une
+                    présence en ligne élégante ou un professionnel cherchant à
+                    exposer votre portefeuille, nous avons l&apos;expertise
+                    nécessaire pour concrétiser votre vision.
                     <br />
                     <br />
                     Pour les projets axés sur le commerce électronique, nous
@@ -348,7 +348,7 @@ const Agency = () => {
                     clients et stimule les ventes. Chez KBCOM, nous intégrons
                     des fonctionnalités avancées, des designs attrayants et une
                     navigation intuitive pour optimiser votre boutique en ligne
-                    et améliorer l'expérience d'achat.
+                    et améliorer l&apos;expérience d&apos;achat.
                   </p>
                 </div>
               </div>
@@ -399,10 +399,10 @@ const Agency = () => {
             <div className="lg:flex lg:justify-between">
               <div className="mb-6 max-w-lg lg:mb-0">
                 <h2 className="mb-5 font-display text-3xl text-jacarta-700 dark:text-white">
-                  Besoin de plus d'information ?
+                  Besoin de plus d&apos;information ?
                 </h2>
                 <p className="text-lg leading-normal dark:text-jacarta-300">
-                  Notre équipe s'occupe de vous et de toutes vos questions.
+                  Notre équipe s&apos;occupe de vous et de toutes vos questions.
                 </p>
               </div>
               <Link
