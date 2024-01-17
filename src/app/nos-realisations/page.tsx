@@ -1,5 +1,6 @@
 import Hero from "@/components/Hero";
 import Link from "next/link";
+import Script from "next/script";
 
 const Achievements = () => {
   return (
@@ -207,7 +208,7 @@ const Achievements = () => {
         </div>
       </section>
 
-      <script src="./js/app.bundle.js"></script>
+      <Script src="./js/app.bundle.js"></Script>
     </>
   );
 };

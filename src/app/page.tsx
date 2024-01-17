@@ -857,7 +857,7 @@ export default function Home() {
             chez KBCOM
           </h2>
           <div className="grid grid-cols-1 gap-[1.875rem] sm:grid-cols-2 md:grid-cols-3">
-            {data && data.map((ev) => <BlogCard data={ev} />)}
+            {data && data.map((ev) => <BlogCard key={ev.id} data={ev} />)}
           </div>
           <div className="text-center mt-10">
             <Link

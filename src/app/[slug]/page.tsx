@@ -6,6 +6,7 @@ import { useEffect, useState } from "react";
 import { accessUrl } from "../../../url";
 import Image from "next/image";
 import BlogCard from "@/components/BlogCard";
+import Script from "next/script";
 
 interface gettingData {
   attributes: innerData;
@@ -138,7 +139,7 @@ const Post = () => {
           </div>
         </section>
       </main>
-      <script src="./js/app.bundle.js"></script>
+      <Script src="./js/app.bundle.js"></Script>
     </>
   );
 };

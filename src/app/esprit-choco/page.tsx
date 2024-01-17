@@ -82,8 +82,8 @@ const EspritChoco = () => {
                   <h2 className="text-3xl">Site Vitrine - Esprit Choco</h2>
                   <p className="text-lg leading-normal">
                     Nous avons réalisé un site web vitrine pour la boutique de
-                    chocolat "Esprit Choco" en utilisant WordPress et le plugin
-                    Elementor.
+                    chocolat &ldquo;Esprit Choco&ldquo;en utilisant WordPress et
+                    le plugin Elementor.
                   </p>
                   <p>
                     Notre agence KBCOM a utilisé les fonctionnalités avancées
@@ -104,10 +104,9 @@ const EspritChoco = () => {
                       Notre agence KBCOM a mis en œuvre des stratégies de
                       conception web créatives et efficaces pour refléter
                       l&apos;essence gourmande et séduisante des produits
-                      chocolatés proposés par "Esprit Choco".
+                      chocolatés proposés par &ldquo; Choco&ldquo;.
                     </li>
                     <li>
-                      {" "}
                       En mettant l&apos;accent sur l&apos;esthétique et
                       l&apos;ergonomie, nous avons veillé à ce que chaque
                       visiteur du site ait une expérience agréable tout en
@@ -121,7 +120,7 @@ const EspritChoco = () => {
                       de parcourir facilement les différentes catégories de
                       produits, de découvrir les promotions en cours et
                       d&apos;en apprendre davantage sur l&apos;histoire et les
-                      valeurs de "Esprit Choco"
+                      valeurs de &ldquo;Esprit Choco&ldquo;
                     </li>
                   </ul>
                 </div>
@@ -136,7 +135,7 @@ const EspritChoco = () => {
           <div className="container">
             <div className="mx-auto mb-12 max-w-sm text-center">
               <h2 className="mb-6 text-center font-display text-3xl font-medium text-jacarta-700 dark:text-white">
-                Voir nos <span style={{ color: "#7b50f8" }}>autres </span>{" "}
+                Voir nos <span style={{ color: "#7b50f8" }}>autres </span>
                 réalisations
               </h2>
             </div>

@@ -4,6 +4,7 @@ import axios from "axios";
 import { useState } from "react";
 import { accessUrl } from "../../../url";
 import toast from "react-hot-toast";
+import Script from "next/script";
 
 const ContactUs = () => {
   const [name, setName] = useState<string>("");
@@ -235,7 +236,7 @@ const ContactUs = () => {
         </section>
       </main>
 
-      <script src="./js/app.bundle.js"></script>
+      <Script src="/js/app.bundle.js"></Script>
     </>
   );
 };

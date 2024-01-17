@@ -6,6 +6,7 @@ import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import { Toaster } from "react-hot-toast";
 import Head from "next/head";
+import Script from "next/script";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -36,9 +37,9 @@ export default function RootLayout({
         <Toaster position="top-center" reverseOrder={false} />
         {children}
         <Footer />
-        <script src="js/app.bundle.js"></script>
-        <script src="js/charts.bundle.js"></script>
-        <script src="js/countdown.bundle.js"></script>
+        <Script src="js/app.bundle.js"></Script>
+        <Script src="js/charts.bundle.js"></Script>
+        <Script src="js/countdown.bundle.js"></Script>
       </body>
     </html>
   );

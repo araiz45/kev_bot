@@ -79,7 +79,7 @@ const MarchauCreation = () => {
                   l&apos;entreprise
                 </p>
                 <h3 className="text-xl">
-                  Aucune perte de qualité lors de l"impression
+                  Aucune perte de qualité lors de l&ldquo;impression
                 </h3>
                 <ul>
                   <li>
@@ -87,7 +87,6 @@ const MarchauCreation = () => {
                     en qualité
                   </li>
                   <li>
-                    {" "}
                     Création de l&apos;identité visuelle de l&apos;entreprise.
                   </li>
                 </ul>
@@ -119,13 +118,12 @@ const MarchauCreation = () => {
             className="rounded-2xl"
           />
         </div>
-        {/* <img src="img/all/choco6.png" alt="1" className="rounded-2xl" /> */}
       </div>
       <section className="relative py-24">
         <div className="container">
           <div className="mx-auto mb-12 max-w-sm text-center">
             <h2 className="mb-6 text-center font-display text-3xl font-medium text-jacarta-700 dark:text-white">
-              Voir nos <span style={{ color: "#7b50f8" }}>autres </span>{" "}
+              Voir nos <span style={{ color: "#7b50f8" }}>autres </span>
               réalisations
             </h2>
           </div>

@@ -1,5 +1,6 @@
 import Hero from "@/components/Hero";
 import Link from "next/link";
+import Script from "next/script";
 
 const Agency = () => {
   return (
@@ -415,7 +416,7 @@ const Agency = () => {
           </div>
         </div>
       </section>
-      <script src="../../../public/js/app.bundle.js"></script>
+      <Script src="../../../public/js/app.bundle.js"></Script>
     </main>
   );
 };

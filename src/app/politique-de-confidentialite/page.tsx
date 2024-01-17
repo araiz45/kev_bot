@@ -67,10 +67,10 @@ const PolitiqueDeConfidentialite = () => {
               individuels que vous consultez, les sites Web ou les termes de
               recherche qui vous ont renvoyé au site et la manière dont vous
               interagissez avec le site. Nous désignons ces informations
-              collectées automatiquement par le terme "informations sur les
-              appareils". En outre, nous pourrions collecter les données
-              personnelles que vous nous fournissez (y compris, mais sans
-              s&apos;y limiter, le nom, le prénom, l&apos;adresse, les
+              collectées automatiquement par le terme &ldquo;informations sur
+              les appareils&ldquo;. En outre, nous pourrions collecter les
+              données personnelles que vous nous fournissez (y compris, mais
+              sans s&apos;y limiter, le nom, le prénom, l&apos;adresse, les
               informations de paiement, etc.) lors de l&apos;inscription afin de
               pouvoir exécuter le contrat. (Ce texte est théorique, on a juste
               un google analytics, et les infos de contact).

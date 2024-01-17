@@ -6,6 +6,7 @@ import Link from "next/link";
 import { useEffect, useState } from "react";
 import { accessUrl } from "../../../url";
 import BigBlogCard from "@/components/BigBlogCard";
+import Script from "next/script";
 
 interface gettingData {
   attributes: innerData;
@@ -136,6 +137,7 @@ const News: React.FC = () => {
               <div className="flex gap-3">
                 {innerArr.map((i) => (
                   <button
+                    key={i}
                     onClick={() => {
                       setPage(i);
                       getBlog();
@@ -193,7 +195,7 @@ const News: React.FC = () => {
         </div>
       </section>
 
-      <script src="./js/app.bundle.js"></script>
+      <Script src="./js/app.bundle.js"></Script>
     </>
   );
 };
