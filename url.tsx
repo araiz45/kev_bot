@@ -1,1 +1,1 @@
-export const accessUrl: string = "http://139.162.121.252:1337";
+export const accessUrl: string = "http://localhost:1337";

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Script from "next/script";
 
 const Header = () => {
   return (
@@ -161,6 +162,9 @@ const Header = () => {
           </div>
         </div>
       </header>
+      <Script src="js/app.bundle.js"></Script>
+      <Script src="js/charts.bundle.js"></Script>
+      <Script src="js/countdown.bundle.js"></Script>
     </>
   );
 };

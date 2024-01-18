@@ -236,7 +236,9 @@ const ContactUs = () => {
         </section>
       </main>
 
-      <Script src="/js/app.bundle.js"></Script>
+      <Script src="js/app.bundle.js"></Script>
+      <Script src="js/charts.bundle.js"></Script>
+      <Script src="js/countdown.bundle.js"></Script>
     </>
   );
 };
