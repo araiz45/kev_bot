@@ -22,6 +22,9 @@ const ContactUs = () => {
       });
       toast.success("Sent");
       console.log(repsonse);
+      setName("");
+      setEmail("");
+      setMessage("");
     } catch (error) {
       toast.error("something went wrong");
     }
@@ -92,6 +95,7 @@ const ContactUs = () => {
                         type="text"
                         required
                         onChange={(ev) => setName(ev.target.value)}
+                        value={name}
                       />
                     </div>
 
@@ -108,6 +112,7 @@ const ContactUs = () => {
                         id="email"
                         type="email"
                         required
+                        value={email}
                         onChange={(ev) => setEmail(ev.target.value)}
                       />
                     </div>
@@ -125,6 +130,7 @@ const ContactUs = () => {
                       className="contact-form-input w-full rounded-lg border-jacarta-100 py-3 hover:ring-2 hover:ring-accent/10 focus:ring-accent dark:border-jacarta-600 dark:bg-jacarta-700 dark:text-white dark:placeholder:text-jacarta-300"
                       required
                       name="message"
+                      value={message}
                       rows={5}
                       onChange={(ev) => setMessage(ev.target.value)}
                     ></textarea>
