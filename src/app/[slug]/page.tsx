@@ -7,6 +7,7 @@ import { accessUrl } from "../../../url";
 import Image from "next/image";
 import BlogCard from "@/components/BlogCard";
 import Script from "next/script";
+import { Markdown } from "react-showdown";
 
 interface gettingData {
   attributes: innerData;
@@ -118,9 +119,10 @@ const Post = () => {
 
             <article className="mb-12">
               <div className="article-content">
-                <p className="text-lg leading-normal">
-                  {extData?.attributes.Description}
-                </p>
+                <Markdown
+                  markdown={extData?.attributes.Description || ""}
+                  className="text-lg leading-normal"
+                />
               </div>
             </article>
 

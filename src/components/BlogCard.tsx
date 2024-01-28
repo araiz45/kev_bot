@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { accessUrl } from "../../url";
+import { Markdown } from "react-showdown";
 
 interface props {
   data: gettingData | null | undefined;
@@ -65,9 +66,10 @@ const BlogCard = ({ data }: props) => {
               {data?.attributes.Title}{" "}
             </Link>
           </h2>
-          <p className="mb-8 dark:text-jacarta-200">
-            {data?.attributes.Description.slice(0, 150)}...
-          </p>
+          <Markdown
+            markdown={data?.attributes.Description.slice(0, 150) || ""}
+            className="mb-8 dark:text-jacarta-200"
+          />
 
           <div className="flex flex-wrap items-center space-x-2 text-sm text-jacarta-400">
             <span>
